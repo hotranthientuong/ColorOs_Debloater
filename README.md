@@ -43,3 +43,4 @@
 - com.heytap.market
 - com.coloros.compass2
 - com.coloros.assistantscreen
+- com.coloros.codebook
