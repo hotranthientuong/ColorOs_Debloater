@@ -75,6 +75,7 @@ adb shell pm uninstall -k --user 0 com.heytap.market
 adb shell pm uninstall -k --user 0 com.coloros.compass2
 adb shell pm uninstall -k -k --user 0 com.nearme.gamecenter
 adb shell pm uninstall -k --user 0 com.coloros.assistantscreen
+adb shell pm uninstall -k --user 0 com.coloros.codebook
 
 @echo,
 echo ------------------------------
